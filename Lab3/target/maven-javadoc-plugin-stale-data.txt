@@ -1,0 +1,31 @@
+cmd.exe
+/X
+/C
+"C:\Users\deff3\.jdks\openjdk-15\bin\javadoc.exe @options @argfile"
+C:\Users\deff3\IdeaProjects\KYSK\target\apidocs\allclasses-index.html = 1604011688983
+C:\Users\deff3\IdeaProjects\KYSK\target\apidocs\allpackages-index.html = 1604011688993
+C:\Users\deff3\IdeaProjects\KYSK\target\apidocs\AppleWidget.html = 1604011688771
+C:\Users\deff3\IdeaProjects\KYSK\target\apidocs\argfile = 1604011687737
+C:\Users\deff3\IdeaProjects\KYSK\target\apidocs\constant-values.html = 1604011688867
+C:\Users\deff3\IdeaProjects\KYSK\target\apidocs\deprecated-list.html = 1604011688934
+C:\Users\deff3\IdeaProjects\KYSK\target\apidocs\element-list = 1604011688845
+C:\Users\deff3\IdeaProjects\KYSK\target\apidocs\help-doc.html = 1604011689014
+C:\Users\deff3\IdeaProjects\KYSK\target\apidocs\index-all.html = 1604011688968
+C:\Users\deff3\IdeaProjects\KYSK\target\apidocs\index.html = 1604011689003
+C:\Users\deff3\IdeaProjects\KYSK\target\apidocs\ISettingsProvider.html = 1604011688790
+C:\Users\deff3\IdeaProjects\KYSK\target\apidocs\jquery-ui.overrides.css = 1604011689125
+C:\Users\deff3\IdeaProjects\KYSK\target\apidocs\member-search-index.js = 1604011688964
+C:\Users\deff3\IdeaProjects\KYSK\target\apidocs\module-search-index.js = 1604011688959
+C:\Users\deff3\IdeaProjects\KYSK\target\apidocs\options = 1604011687736
+C:\Users\deff3\IdeaProjects\KYSK\target\apidocs\overview-tree.html = 1604011688923
+C:\Users\deff3\IdeaProjects\KYSK\target\apidocs\package-search-index.js = 1604011688961
+C:\Users\deff3\IdeaProjects\KYSK\target\apidocs\package-summary.html = 1604011688849
+C:\Users\deff3\IdeaProjects\KYSK\target\apidocs\package-tree.html = 1604011688859
+C:\Users\deff3\IdeaProjects\KYSK\target\apidocs\package-use.html = 1604011688915
+C:\Users\deff3\IdeaProjects\KYSK\target\apidocs\script.js = 1604011689031
+C:\Users\deff3\IdeaProjects\KYSK\target\apidocs\search.js = 1604011689033
+C:\Users\deff3\IdeaProjects\KYSK\target\apidocs\SettingsProvider.html = 1604011688818
+C:\Users\deff3\IdeaProjects\KYSK\target\apidocs\stylesheet.css = 1604011689024
+C:\Users\deff3\IdeaProjects\KYSK\target\apidocs\tag-search-index.js = 1604011688966
+C:\Users\deff3\IdeaProjects\KYSK\target\apidocs\type-search-index.js = 1604011688962
+C:\Users\deff3\IdeaProjects\KYSK\target\apidocs\Widget.html = 1604011688837

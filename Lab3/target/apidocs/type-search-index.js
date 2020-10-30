@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"AppleWidget"},{"p":"<Unnamed>","l":"ISettingsProvider"},{"p":"<Unnamed>","l":"SettingsProvider"},{"p":"<Unnamed>","l":"Widget"}];updateSearchResults();
